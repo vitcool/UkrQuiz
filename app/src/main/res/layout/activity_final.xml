@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/resultLinear"
+    android:background="@drawable/background_quiz">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/result_view"
+        android:id="@+id/textView"
+        android:background="@drawable/text_view"
+        android:textColor="#ffffffff"
+        android:padding="10dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/result"
+        android:layout_gravity="center_horizontal"
+        android:textSize="100dp"
+        android:textIsSelectable="false"
+        android:textColor="#ff0a0eff"
+        android:layout_alignWithParentIfMissing="false"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/exit_button"
+        android:background="@null"
+        android:src="@drawable/exit_button_final"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:id="@+id/background_img"
+        android:layout_below="@+id/result"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:id="@+id/textView2"
+        android:textSize="30dp"
+        android:textColor="#fffff498"
+        android:layout_alignWithParentIfMissing="false"
+        android:longClickable="false"
+        android:layout_below="@+id/background_img"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

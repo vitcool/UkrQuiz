@@ -1,0 +1,151 @@
+<resources>
+
+    <string name="app_name">UkrQuiz</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="question_text">Ukraine is the center of the Europe</string>
+    <string name="true_button">Так, це правда</string>
+    <string name="false_button">Ні, це не так</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="plus_button">+</string>
+    <string name="minus_button">-</string>
+    <string name="quest_button">0?</string>
+
+    <string name="cheat_button">Промахлювати!</string>
+    <string name="warning_button">Ви впевнені що хочете підглянути відповідь? Відповісти на це питання буде неможливо</string>
+    <string name="show_answer_button">Показати відповідь</string>
+    <string name="judgment_toast">Не дуже гарно так чинити.</string>
+
+    <string name="question_1">Найважчий у світі літак розроблений в Україні</string>
+    <string name="question_2">Найстаріший навчальний заклад Східної Європи - Чернівецький Національний Університет</string>
+    <string name="question_2_true">Найстаріший навчальний заклад Східної Європи - Києво-Могилянська академія</string>
+    <string name="question_3">Станція метро «Маршала Жукова» у Харкові — найглибша у світі.</string>
+    <string name="question_3_true">Станція метро «Арсенальна» у Києві — найглибша у світі.</string>
+    <string name="question_4">Найдовший у світі тролейбусний маршрут проходить в Україні і з\'єднує Сімферополь та Ялту</string>
+    <string name="question_5">Україна - географічний центр Європи</string>
+
+    <string name="result_view">Ваш результат</string>
+    <string name="exit_button">Вихід</string>
+
+    <string name="about_button">Про програму</string>
+    <string name="info_button">Інструкція</string>
+    <string name="newTest_button">Тест</string>
+    <string name="start_view">UkrQuiz</string>
+
+    <string name="info_view">Інструкція</string>
+    <string name="info_view2">Програма створена для популяризації знань про українську державу,
+    те чиm вона може пишатися, факти, які відомі не всім, адже нам є що сказати з цього приводу.</string>
+
+    <string name="about_view">Про авторів</string>
+    <string name="about_view1">vitcool</string>
+    <string name="about_view2">vitcool@ukr.net</string>
+    <string name="about_view3">+380672256330</string>
+    <string name="about_view4">окрема подяка Каті за підтримку та розуміння)</string>
+
+    <string name="info_true">Ви вважаєте що твердження вірне</string>
+    <string name="info_false">Ви вважаєте що твердження хибне</string>
+    <string name="info_cheat">Ви маєте хмогу піддивитися відповідь</string>
+
+    <string name="timer_quiz">00,0</string>
+    <string name="clock">00,0</string>
+
+    <string name="lina">...Бо хто за що, а ми за незалежність.
+                        \nОтож нам так і важко через те.</string>
+    <string name="sheva">І чужому научайтесь,
+                        \nЙ свого не цурайтесь.</string>
+    <string name="lesja">А в серці тільки ти,
+                       \nЄдиний мій, коханий рідний краю!</string>
+    <string name="franko">Або смерть, або побіда!
+                           \nСе наш оклик бойовий!</string>
+    <string name="simonenko">Можна все на світі вибирати, сину,
+                            \nВибрати не можна тільки Батьківщину.</string>
+
+    <string name="menu_start">Стартове</string>
+    <string name="menu_about">Про програму</string>
+    <string name="menu_info">Інструкція</string>
+    <string name="menu_exit">Вихід</string>
+
+
+
+    <string name="history1">Хрещення Русі відбулося у 968 році</string>
+    <string name="history1_true">Хрещення Русі відбулося у 988 році</string>
+    <string name="history2">Перша згадка про Україну в літописах датується  1187 роком</string>
+    <string name="history3">Остафій Дашкевич був першим козацьким гетьманом</string>
+    <string name="history4">Національно - визвольна боротьба проходила за гетьманства Богдана Хмельницького</string>
+    <string name="history5">1861го року цар Олександр ІІ скасував кріпацтво</string>
+    <string name="history6">Указ про ліквідацію козацтва дав Петро ІІІ </string>
+    <string name="history6_true">Указ про ліквідацію козацтва дала Катерина ІІ </string>
+    <string name="history7">Михайло Грушевський - перший президент УНР</string>
+    <string name="history8">Родина Семеренків стала символом винищення сталінським режимом української інтелігенції</string>
+    <string name="history8_true">Родина Крушельницьких стала символом винищення сталінським режимом української інтелігенції</string>
+    <string name="history9">Акт проголошення незалежності України прийнято 1 грудня 1990 року</string>
+    <string name="history9_true">Акт проголошення незалежності України прийнято 24 серпня 1991 року</string>
+    <string name="history10">Кучма Леонід Данилович - другий Президент України</string>
+
+
+
+
+    <string name="geografy1">Крайня південна точка України розташована у Форосі (м. Ніколая) на Кримському півострові</string>
+    <string name="geografy2">Великі поклади марганцевих руд зосереджені у Нікопольскому басейні</string>
+    <string name="geografy3">Більша частина території України має гірський характер</string>
+    <string name="geografy3_true">Більша частина території України має рівнинний характер</string>
+    <string name="geografy4">Найбільші низовини: Поліська низовина на півночі, Причорноморська на півдні та Придніпровська,
+                            що простягається в середній частині лівобережжя Дніпра.</string>
+    <string name="geografy5">Вся територія розташована в субекваторіальному кліматичному поясі.</string>
+    <string name="geografy5_true">Вся територія розташована в помірному кліматичному поясі.</string>
+    <string name="geografy6">Клімат України помірно континентальний, лише на Південному березі Криму — тропічний</string>
+    <string name="geografy6_true">Клімат України помірно континентальний, лише на Південному березі Криму — субтропічний</string>
+    <string name="geografy7">Найбільше природне озеро України - оз. Ялпуг</string>
+    <string name="geografy8">Загальна площа території України 570 700 кв. км. </string>
+    <string name="geografy8_true">Загальна площа території України 603 700 кв. км. </string>
+    <string name="geografy9">Чисельність населення України -45 млн осіб (2014)</string>
+    <string name="geografy10">Крайня східна точка знаходиться на околиці с. Червона Зірка Сумської області.</string>
+    <string name="geografy10_true">Крайня східна точка знаходиться на околиці с. Червона Зірка Міловського району Луганської області.</string>
+
+
+
+
+    <string name="science1">Найбільшого розвитку освіта у Київській Русі набула за часів
+                            правління князів Володимира Великого та Ярослава Мудрого</string>
+    <string name="science2">На початку XVIII ст. завдяки підтримці гетьмана Мазепи одним із
+                        провідних науково-освітніх центрів Європи стає Трипільська академія</string>
+    <string name="science2_true">На початку XVIII ст. завдяки підтримці гетьмана Мазепи одним із
+                        провідних науково-освітніх центрів Європи стає Києво - Могилянська академія</string>
+    <string name="science3">Кращий технічний ВНЗ України - КПІ засновано 1896 року</string>
+    <string name="science4">Сергій Корольов вважається основоположником практичної космонавтики</string>
+    <string name="science5">Сергій Платон — автор ідеї та один з розробників методу електрозварювання м\'яких тканин</string>
+    <string name="science5_true">Борис Патон — автор ідеї та один з розробників методу електрозварювання м\'яких тканин</string>
+    <string name="science6">Юрій Кондратюк - автор так званої «траси Кондратюка», якою подорожували
+                            на Місяць космічні кораблі «Аполлон»</string>
+    <string name="science7">У 2008 році Амосов був визнаний другим після Тараса Шевченка великим українцем
+                            за результатами опитування громадської думки «Великі українці»</string>
+    <string name="science7_true">У 2008 році Амосов був визнаний другим після Ярослава Мудрого великим
+                            українцем за результатами опитування громадської думки «Великі українці»</string>
+    <string name="science8">Ілля Іванович Мечніков - основоположників еволюційної ембріології, імунології та мікробіології</string>
+    <string name="science9_true">За рівнем розвитку інтелекту ми посідаємо перше місце в Європі та друге в світі, після Гонконгу</string>
+    <string name="science9">За рівнем розвитку інтелекту ми посідаємо друге місце в Європі</string>
+    <string name="science10">Микола Григорович Холодний автор праць в галузі мікробіології,
+                            фізіології та екології рослин</string>
+
+
+    <string name="sport1">Віктор Леоненко — п\'ятиразовий чемпіон України,
+        володар «Золотого м\'яча» 2004 року,найкращий гравець Ліги чемпіонів сезону 1998–1999 рр.</string>
+    <string name="sport1_true">Андрій Шевченко — п\'ятиразовий чемпіон України,
+        володар «Золотого м\'яча» 2004 року,найкращий гравець Ліги чемпіонів сезону 1998–1999 рр.</string>
+    <string name="sport2"> Яні Клочковій належить світовий та олімпійський рекорд на дистанції 400 метрів комплексом (4 хв. 33,59 сек.)</string>
+    <string name="sport3">Український шахіст Олександр Пономарьов у свої 14 років став наймолодшим у світі гросмейстером, чемпіоном світу серед юнаків до 18 років</string>
+    <string name="sport3_true">Український шахіст Руслан Пономарьов у свої 14 років став наймолодшим у світі гросмейстером, чемпіоном світу серед юнаків до 18 років</string>
+    <string name="sport4">Фігуристка Оксана Баюл - перша олімпійською чемпіонкою в історії незалежної України</string>
+    <string name="sport5">Сергій Бубка, рекордсмен світу у стрибках з жердиною (1994).Рекорд не побитий досі</string>
+    <string name="sport5_true">Сергій Бубка, рекордсмен світу у стрибках з жердиною (1994).Рекорд уже побитий</string>
+    <string name="sport6">Інесса Кравець – володар світового рекорду в потрійному стрибку (1995). Рекорд не побитий досі</string>
+    <string name="sport7">"Шахтар" - володар Кубка УЄФА 2012 року</string>
+    <string name="sport7_true">"Шахтар" - володар Кубка УЄФА 2009 року</string>
+    <string name="sport8">Брати Клички – рекордсмени за кількістю перемог в професійному боксі</string>
+    <string name="sport9">Максимальне досягнення збірної України з футболу - 1/4 фінолу ЧС з футболу</string>
+    <string name="sport10">"Дніпро" - фіналіст Ліги Європи 2015го року</string>
+
+
+
+</resources>
